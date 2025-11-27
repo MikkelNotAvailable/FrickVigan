@@ -1,0 +1,22 @@
+﻿<h3>CreateEvent</h3>
+
+<EditForm Model="@Event" OnValidSubmit="@CreateEvent">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <InputText @bind-Value="Event.Name" />
+    <InputDate @bind-Value="Event.Date" />
+    <InputNumber @bind-Value="Event.Capacity" />
+    <InputTextArea @bind-Value="Event.Description" />
+
+    <button type="submit">Opret event</button>
+</EditForm>
+
+@code {
+    private UserModel user = new();
+
+    private void CreateEvent()
+    {
+        // Handle successful submit, e.g. save to DB
+    }
+}

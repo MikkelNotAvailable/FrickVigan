@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bi0+1aa6x2Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\impro\\Source\\Repos\\Deep-Dive-Pro-V3-\\CleanArchitectureBlazor\\CleanArchitectureBlazor.Infrastructure\\CleanArchitectureBlazor.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\impro\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
+    "C:\\Users\\impro\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.0\\fluentvalidation.dependencyinjectionextensions.12.1.0.nupkg.sha512",
+    "C:\\Users\\impro\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\impro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
